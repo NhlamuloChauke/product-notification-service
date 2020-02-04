@@ -1,0 +1,246 @@
+[INFO ] 04-02-2020 02:53:50.487 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 25332 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 02:53:50.489 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 02:53:50.490 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 02:53:52.998 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL : localhost:9092
+[INFO ] 04-02-2020 02:53:53.584 PM [main]  com.product.service.AppMain - Started AppMain in 8.636 seconds (JVM running for 9.118)
+[INFO ] 04-02-2020 03:40:49.143 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 25547 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 03:40:49.146 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 03:40:49.148 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 03:40:52.109 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL : localhost:9092
+[INFO ] 04-02-2020 03:40:52.838 PM [main]  com.product.service.AppMain - Started AppMain in 9.163 seconds (JVM running for 9.573)
+[INFO ] 04-02-2020 03:51:23.404 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 25630 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 03:51:23.407 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 03:51:23.408 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 03:51:26.063 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 03:51:26.064 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 03:51:26.064 PM [main]  com.product.service.component.BootstrapComponent - DATABASE URL: event-topic
+[INFO ] 04-02-2020 03:51:26.064 PM [main]  com.product.service.component.BootstrapComponent - DATABASE U USERNAME: jdbc:mysql://localhost:3306/salex
+[INFO ] 04-02-2020 03:51:26.064 PM [main]  com.product.service.component.BootstrapComponent - DATABASE PASSWORD: root2222
+[INFO ] 04-02-2020 03:51:26.373 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[ERROR] 04-02-2020 03:51:26.409 PM [main]  com.product.service.component.BootstrapComponent - Access denied for user 'root'@'localhost' (using password: YES)
+[INFO ] 04-02-2020 03:52:29.286 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 25655 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 03:52:29.289 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 03:52:29.289 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 03:52:31.853 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 03:52:31.856 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 03:52:31.856 PM [main]  com.product.service.component.BootstrapComponent - DATABASE URL: event-topic
+[INFO ] 04-02-2020 03:52:31.856 PM [main]  com.product.service.component.BootstrapComponent - DATABASE U USERNAME: jdbc:mysql://localhost:3306/salex
+[INFO ] 04-02-2020 03:52:31.856 PM [main]  com.product.service.component.BootstrapComponent - DATABASE PASSWORD: root2222
+[INFO ] 04-02-2020 03:52:32.159 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[ERROR] 04-02-2020 03:52:32.191 PM [main]  com.product.service.component.BootstrapComponent - Access denied for user 'root'@'localhost' (using password: YES)
+[INFO ] 04-02-2020 04:00:26.585 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 25736 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:00:26.589 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:00:26.589 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:00:29.218 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:00:29.220 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:00:29.221 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:00:29.221 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:00:29.517 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 04:00:30.143 PM [main]  com.product.service.AppMain - Started AppMain in 9.02 seconds (JVM running for 9.417)
+[INFO ] 04-02-2020 04:22:29.360 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 25958 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:22:29.364 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:22:29.365 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:22:32.343 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:22:32.344 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:22:32.344 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:22:32.344 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:22:32.344 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 04:22:32.638 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 04:29:04.151 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26060 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:29:04.155 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:29:04.156 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:29:06.779 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:29:06.780 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:29:06.780 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:29:06.780 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:29:06.780 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 04:29:07.070 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 04:30:56.797 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26140 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:30:56.800 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:30:56.800 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:30:59.594 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:30:59.595 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:30:59.595 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:30:59.595 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:30:59.595 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 04:32:27.557 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26212 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:32:27.559 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:32:27.560 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:33:42.996 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26277 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:33:42.999 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:33:42.999 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:33:46.185 PM [main]  com.product.service.AppMain - Started AppMain in 8.659 seconds (JVM running for 9.055)
+[INFO ] 04-02-2020 04:34:36.349 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26343 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:34:36.351 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:34:36.352 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:34:38.969 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:34:38.970 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:34:38.971 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:34:38.971 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:34:38.972 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 04:34:39.587 PM [main]  com.product.service.AppMain - Started AppMain in 8.7 seconds (JVM running for 9.122)
+[INFO ] 04-02-2020 04:36:15.567 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26406 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:36:15.570 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:36:15.571 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:36:18.171 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:36:18.172 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:36:18.173 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:36:18.173 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:36:18.173 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 04:40:23.233 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26479 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:40:23.236 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:40:23.236 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:40:25.986 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:40:25.987 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:40:25.988 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:40:25.988 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:40:25.988 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 04:44:03.340 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26721 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 04:44:03.342 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 04:44:03.343 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 04:44:06.111 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 04:44:06.113 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 04:44:06.113 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 04:44:06.113 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 04:44:06.113 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 05:00:39.397 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26876 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 05:00:39.400 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 05:00:39.401 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 05:00:41.935 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 05:00:41.936 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 05:00:41.937 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 05:00:41.937 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 05:00:41.937 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 05:02:21.440 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 26950 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 05:02:21.442 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 05:02:21.443 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 05:02:23.980 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 05:02:23.981 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 05:02:23.981 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 05:02:23.981 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 05:02:23.981 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 09:38:24.124 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27172 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 09:38:24.126 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 09:38:24.127 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 09:38:26.726 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 09:38:26.726 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 09:38:26.727 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 09:38:26.727 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 09:38:26.727 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 09:38:27.019 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 09:38:27.621 PM [main]  com.product.service.AppMain - Started AppMain in 8.957 seconds (JVM running for 9.387)
+[INFO ] 04-02-2020 09:45:22.240 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27276 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 09:45:22.242 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 09:45:22.243 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 09:45:24.779 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 09:45:24.781 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 09:45:24.781 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 09:45:24.781 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 09:45:24.781 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 09:45:25.070 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 09:45:25.073 PM [main]  c.p.service.component.ProductConsumerComponent - start consumer component *****************
+[INFO ] 04-02-2020 09:48:01.459 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27341 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 09:48:01.461 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 09:48:01.462 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 09:48:04.051 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 09:48:04.052 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 09:48:04.053 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 09:48:04.053 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 09:48:04.053 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 09:48:04.332 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 09:48:04.333 PM [main]  c.p.service.component.ProductConsumerComponent - start consumer component *****************
+[INFO ] 04-02-2020 10:03:53.623 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27460 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:03:53.626 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:03:53.626 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:03:56.169 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:03:56.170 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:03:56.170 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:03:56.170 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:03:56.170 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:03:56.452 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:03:57.038 PM [main]  com.product.service.AppMain - Started AppMain in 8.852 seconds (JVM running for 9.37)
+[INFO ] 04-02-2020 10:16:02.539 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27572 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:16:02.543 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:16:02.544 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:16:05.066 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:16:05.067 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:16:05.067 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:16:05.068 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:16:05.068 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:16:05.343 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:16:05.915 PM [main]  com.product.service.AppMain - Started AppMain in 8.812 seconds (JVM running for 9.413)
+[INFO ] 04-02-2020 10:18:11.015 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27635 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:18:11.017 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:18:11.017 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:18:13.552 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:18:13.553 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:18:13.553 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:18:13.553 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:18:13.553 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:18:13.826 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:18:13.827 PM [main]  c.p.service.component.ProductConsumerComponent - start consumer component *****************
+[INFO ] 04-02-2020 10:20:41.221 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27714 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:20:41.224 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:20:41.225 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:20:43.824 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:20:43.825 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:20:43.825 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:20:43.825 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:20:43.825 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:20:44.106 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:20:44.107 PM [main]  c.p.service.component.ProductConsumerComponent - start consumer component *****************
+[INFO ] 04-02-2020 10:20:44.698 PM [main]  com.product.service.AppMain - Started AppMain in 8.93 seconds (JVM running for 9.334)
+[INFO ] 04-02-2020 10:21:55.070 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27774 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:21:55.072 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:21:55.073 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:21:57.650 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:21:57.651 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:21:57.651 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:21:57.651 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:21:57.651 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:21:57.934 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:21:57.935 PM [main]  c.p.service.component.ProductConsumerComponent - start consumer component *****************
+[INFO ] 04-02-2020 10:27:39.201 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27856 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:27:39.203 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:27:39.204 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:27:41.765 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:27:41.766 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:27:41.766 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:27:41.767 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:27:41.767 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:27:42.061 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:27:42.062 PM [main]  com.product.service.component.ConsumerComponents - start consumer component *****************
+[INFO ] 04-02-2020 10:29:11.283 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27926 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:29:11.285 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:29:11.286 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:29:13.820 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:29:13.821 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:29:13.821 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:29:13.821 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:29:13.821 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:29:14.092 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:29:14.093 PM [main]  com.product.service.component.ConsumerComponents - start consumer component *****************
+[INFO ] 04-02-2020 10:29:14.094 PM [main]  com.product.service.component.ConsumerComponents - 1 consumer component *****************
+[INFO ] 04-02-2020 10:31:34.300 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 27992 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:31:34.302 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:31:34.303 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:31:36.810 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:31:36.811 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:31:36.811 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:31:36.812 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:31:36.812 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:31:37.086 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:31:37.087 PM [main]  com.product.service.component.ConsumerComponents - start consumer component *****************
+[INFO ] 04-02-2020 10:31:37.087 PM [main]  com.product.service.component.ConsumerComponents - 1 consumer component *****************
+[INFO ] 04-02-2020 10:33:08.055 PM [main]  com.product.service.AppMain - Starting AppMain on Nhlamulos-MacBook-Air.local with PID 28055 (/Users/nhlamulo/Desktop/Projects/product-service/target/classes started by nhlamulo in /Users/nhlamulo/Desktop/Projects/product-service)
+[DEBUG] 04-02-2020 10:33:08.058 PM [main]  com.product.service.AppMain - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] 04-02-2020 10:33:08.058 PM [main]  com.product.service.AppMain - No active profile set, falling back to default profiles: default
+[INFO ] 04-02-2020 10:33:10.625 PM [main]  com.product.service.component.BootstrapComponent - KAFKA URL: localhost:9092
+[INFO ] 04-02-2020 10:33:10.626 PM [main]  com.product.service.component.BootstrapComponent - KAFKA EVENT TOPIC: event-topic
+[INFO ] 04-02-2020 10:33:10.627 PM [main]  com.product.service.component.BootstrapComponent - KAFKA CONNECTION MAX: 10000
+[INFO ] 04-02-2020 10:33:10.627 PM [main]  com.product.service.component.BootstrapComponent - KAFKA REQUEST TIMEOUT: 5000
+[INFO ] 04-02-2020 10:33:10.627 PM [main]  com.product.service.component.BootstrapComponent - KAFKA TIMEOUT MS: 100
+[INFO ] 04-02-2020 10:33:10.919 PM [main]  com.product.service.component.BootstrapComponent - Kafka is connected successfully
+[INFO ] 04-02-2020 10:33:10.920 PM [main]  com.product.service.component.ConsumerComponents - start consumer component *****************
+[INFO ] 04-02-2020 10:33:10.921 PM [main]  com.product.service.component.ConsumerComponents - 1 consumer component *****************
+[INFO ] 04-02-2020 10:33:10.922 PM [main]  com.product.service.component.ConsumerComponents - 2 consumer component *****************
