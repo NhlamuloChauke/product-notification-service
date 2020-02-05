@@ -1,4 +1,4 @@
-package com.product.service.streaming;
+package com.notification.service.notificationservice.streaming;
 
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.streams.KafkaStreams;
@@ -10,11 +10,11 @@ import org.apache.kafka.streams.kstream.KStream;
 import java.util.Properties;
 import java.util.concurrent.CountDownLatch;
 
-public class StreamConsumer {
+public class StreamNotification {
 
     public static void main(String[] args) throws Exception {
-        StreamConsumer streamConsumer = new StreamConsumer();
-        streamConsumer.createStream("event-topic");
+        StreamNotification streamNotification = new StreamNotification();
+        streamNotification.createStream("event-topic");
     }
 
     public Properties starter() {
