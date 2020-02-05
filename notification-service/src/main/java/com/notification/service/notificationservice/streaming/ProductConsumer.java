@@ -1,6 +1,5 @@
-package com.product.service.streaming;
+package com.notification.service.notificationservice.streaming;
 
-import com.product.service.AppMain;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;
@@ -13,7 +12,7 @@ import java.util.Collections;
  * @author nhlamulo
  */
 public class ProductConsumer {
-    private static final Logger LOG = LoggerFactory.getLogger(AppMain.class);
+    private static final Logger LOG = LoggerFactory.getLogger(ProductConsumer.class);
 
     public void startProductConsumer(String topic, String kafkaUrl) {
         ProductConsumerCreator prop = new ProductConsumerCreator();
