@@ -1,4 +1,4 @@
-/*
+
 package com.product.service.component;
 
 import com.product.service.config.ApplicationProperties;
@@ -15,11 +15,9 @@ import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.ExecutionException;
 
-*/
 /**
  * @author nhlamulo
- *//*
-
+ */
 @Component
 public class BootstrapComponent {
 
@@ -80,4 +78,4 @@ public class BootstrapComponent {
         return true;
     }
 }
-*/
+
