@@ -30,7 +30,10 @@ public class StreamNotification {
 
         final StreamsBuilder builder = new StreamsBuilder();
         KStream<String, String> source = builder.stream(topic);
-        source.foreach((key, value) -> System.out.println(key + " => " + value));
+        //source.foreach((key, value) -> System.out.println(key + " => " + value));
+        source.foreach((key, value) -> {
+            System.out.println(key + " => " + value);
+        });
 
         final Topology topology = builder.build();
         final KafkaStreams streams = new KafkaStreams(topology, starter());
