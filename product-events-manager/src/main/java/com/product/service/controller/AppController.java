@@ -7,7 +7,6 @@ import com.product.service.events.Event;
 import com.product.service.model.Product;
 import com.product.service.service.ProductService;
 import com.product.service.streaming.ProductProducer;
-import com.product.service.streaming.ProductProducerCreator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
