@@ -9,7 +9,6 @@ public class ApplicationProperties {
     private String kafkaTopic;
     private String connectionsMax;
     private String requestTimeout;
-    private String timeoutMs;
 
     public String getKafkaUrl() {
         return kafkaUrl;
@@ -41,13 +40,5 @@ public class ApplicationProperties {
 
     public void setRequestTimeout(String requestTimeout) {
         this.requestTimeout = requestTimeout;
-    }
-
-    public String getTimeoutMs() {
-        return timeoutMs;
-    }
-
-    public void setTimeoutMs(String timeoutMs) {
-        this.timeoutMs = timeoutMs;
     }
 }

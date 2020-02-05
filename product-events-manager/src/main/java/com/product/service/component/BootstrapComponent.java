@@ -33,6 +33,8 @@ public class BootstrapComponent {
 
     @PostConstruct
     public void init() {
+        LOG.info("Starting Service Initialization...");
+
         kafkaURL = properties.getKafkaUrl();
         eventTopic = properties.getKafkaTopic();
         connectionsMax = properties.getConnectionsMax();

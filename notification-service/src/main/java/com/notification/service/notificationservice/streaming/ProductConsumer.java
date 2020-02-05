@@ -14,22 +14,17 @@ import java.util.Collections;
 public class ProductConsumer {
     private static final Logger LOG = LoggerFactory.getLogger(ProductConsumer.class);
 
-    public void startProductConsumer(String topic, String kafkaUrl) {
+    public void startProductConsumer(String topic, String kafkaUrl, String timeoutMS) {
         ProductConsumerCreator prop = new ProductConsumerCreator();
         KafkaConsumer<String, String> consumer = new KafkaConsumer<String, String>(prop.starter(kafkaUrl));
         consumer.subscribe(Collections.singletonList(topic));
         while (true) {
-            ConsumerRecords<String, String> records = consumer.poll(100);
+            ConsumerRecords<String, String> records = consumer.poll(Long.parseLong(timeoutMS));
             if (!records.isEmpty()) {
                 for (ConsumerRecord<String, String> record : records) {
-                    System.out.println("************************" + record.value());
+                    LOG.info("Event record {} =>", record.value());
                 }
             }
         }
-    }
-
-    public static void main(String[] args) {
-        ProductConsumer productConsumer = new ProductConsumer();
-        productConsumer.startProductConsumer("event-topic", "localhost:9092");
     }
 }
