@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 import javax.annotation.PostConstruct;
 
 @Component
-public class ConsumerComponents {
+public class ConsumerComponent {
     private static final Logger LOG = LoggerFactory.getLogger(BootstrapComponent.class);
 
     @Autowired
