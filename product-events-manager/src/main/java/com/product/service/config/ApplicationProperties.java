@@ -10,7 +10,6 @@ public class ApplicationProperties {
     private String connectionsMax;
     private String requestTimeout;
     private String timeoutMs;
-    private String groupIdConfig;
 
     public String getKafkaUrl() {
         return kafkaUrl;
@@ -50,13 +49,5 @@ public class ApplicationProperties {
 
     public void setTimeoutMs(String timeoutMs) {
         this.timeoutMs = timeoutMs;
-    }
-
-    public String getGroupIdConfig() {
-        return groupIdConfig;
-    }
-
-    public void setGroupIdConfig(String groupIdConfig) {
-        this.groupIdConfig = groupIdConfig;
     }
 }

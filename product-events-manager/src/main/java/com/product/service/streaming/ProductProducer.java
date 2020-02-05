@@ -13,8 +13,8 @@ public class ProductProducer {
 
     public void EventMessage(String eventMessage, String topic, String kafkaUrl) {
         ProductProducerCreator props = new ProductProducerCreator();
-        producer = new KafkaProducer<String, String>(props.starter(kafkaUrl));
-        record = new ProducerRecord<String, String>(topic, eventMessage);
+        producer = new KafkaProducer<>(props.starter(kafkaUrl));
+        record = new ProducerRecord<>(topic, eventMessage);
         producer.send(record);
     }
 }

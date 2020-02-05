@@ -27,7 +27,6 @@ public class BootstrapComponent {
     public String eventTopic;
     public String connectionsMax;
     public String requestTimeout;
-    public String timeoutMs;
 
     @Autowired
     ApplicationProperties properties;
@@ -38,13 +37,11 @@ public class BootstrapComponent {
         eventTopic = properties.getKafkaTopic();
         connectionsMax = properties.getConnectionsMax();
         requestTimeout = properties.getRequestTimeout();
-        timeoutMs = properties.getTimeoutMs();
 
         LOG.info("KAFKA URL: {}", kafkaURL);
         LOG.info("KAFKA EVENT TOPIC: {}", eventTopic);
         LOG.info("KAFKA CONNECTION MAX: {}", connectionsMax);
         LOG.info("KAFKA REQUEST TIMEOUT: {}", requestTimeout);
-        LOG.info("KAFKA TIMEOUT MS: {}", timeoutMs);
 
         initializer();
     }
