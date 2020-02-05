@@ -7,5 +7,6 @@
 - Thymeleaf
 - MySQL
 - kafka  
+- Zookeeper
 - Notification(Mailing)
 
