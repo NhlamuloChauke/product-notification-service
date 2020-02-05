@@ -6,7 +6,7 @@
 - Hibernate
 - Thymeleaf
 - MySQL
-- kafka  
-- Zookeeper
+- kafka(2.13-2.4.0)  
+- Zookeeper(3.4.14)
 - Notification(Mailing)
 
