@@ -29,6 +29,7 @@ public class ConsumerComponent {
         timeoutMS = applicationProperties.getTimeoutMS();
 
         ProductConsumer productConsumer = new ProductConsumer();
+
         productConsumer.startProductConsumer(topic, kafkaUrl, timeoutMS);
     }
 }
